@@ -11,7 +11,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #88FF00;
 
 }
 
@@ -40,7 +40,7 @@ section {
 	overflow: auto;
 }
 
-#chicken {
+#Pizza {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -54,7 +54,7 @@ section {
 	background-color: #FFFF00;
 }
 
-#beef {
+#Pasta {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -68,7 +68,7 @@ section {
 	background-color: #FF1439;
 }
 
-#sushi {
+#Fries {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -83,17 +83,17 @@ section {
 	padding: 5px;
 }
 
-#chicken-div {
+#pizza-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
 
-#beef-div {
+#pasta-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
 
-#sushi-div {
+#fries-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
